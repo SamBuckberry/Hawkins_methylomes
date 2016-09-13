@@ -38,6 +38,9 @@ These files contain the C and T counts for each position after merging stranded 
 **<...>.dmr**
 These files contain the output from DSS.
 
+**<...>.bigwig**
+Browser files of cytosine coverage and mC levels.
+
 **all_cells_union.bed**
 Bed file containing union DMRs.
 
